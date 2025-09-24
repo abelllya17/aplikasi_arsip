@@ -1,30 +1,30 @@
-* APLIKASI ARSIP SURAT 
+APLIKASI ARSIP SURAT 
 
-* Tujuan
+Tujuan
 Membantu dalam menyimpan, mengelola, dan mencari surat resmi dalam format PDF, sehingga lebih efisien dan mudah diakses.
 
-* Fitur
+Fitur
 - Upload surat resmi dalam format PDF.
 - Pencarian surat berdasarkan judul.
 - Unduh surat yang telah diarsipkan.
 - Manajemen kategori surat.
 
-* Cara Menjalankan
+Cara Menjalankan
 - lakukan php artisan migrate untuk membuat tabel bawaan laravel
 - lakukan php artisan storage:link untuk membuat link dari folder public dan storage
 - download dan pasang arsip_surat.sql dari repo GitHub
 - lakukan php artisan serve untuk menjalankan laravel
 
-* Screenshot
-* Arsip
-![Arsip](screenshot/arsip-arsip.png)
-![Tambah Arsip](screenshot/tambaharsip.png)
-![Hapus Arsip](screenshot/hapusarsip.png)
-![Lihat Detail Arsip](screenshot/lihatarsip.png)
-![Edit Arsip](screenshot/editarsip.png)
-* Kategori Surat
-![Kategori](screenshot/kategori.png)
-![Tambah Kategori](screenshot/tambahkategori.png)
-![Edit Kategori](screenshot/editkategori.png)
-* About
-![About](screenshot/about.png)
+Screenshot
+Arsip
+![Arsip](screenshot/arsip.PNG)
+![Tambah Arsip](screenshot/tambaharsip.PNG)
+![Hapus Arsip](screenshot/hapusarsip.PNG)
+![Lihat Detail Arsip](screenshot/lihatarsip.PNG)
+![Edit Arsip](screenshot/editarsip.PNG)
+Kategori Surat
+![Kategori](screenshot/kategori.PNG)
+![Tambah Kategori](screenshot/tambahkategori.PNG)
+![Edit Kategori](screenshot/editkategori.PNG)
+About
+![About](screenshot/about.PNG)
